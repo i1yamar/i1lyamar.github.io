@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f51fb819.css",
+    "main.js": "/static/js/main.d265878f.js",
+    "static/media/bg.jpg": "/static/media/bg.29c756a073674a8637e5.jpg",
+    "static/media/trebuc.ttf": "/static/media/trebuc.8dc5d2dd53924baa495c.ttf",
+    "static/media/cat.png": "/static/media/cat.83c44837451a8bdc6a4f.png",
+    "static/media/Exo2.0-Thin.otf": "/static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
+    "index.html": "/index.html",
+    "main.f51fb819.css.map": "/static/css/main.f51fb819.css.map",
+    "main.d265878f.js.map": "/static/js/main.d265878f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f51fb819.css",
+    "static/js/main.d265878f.js"
+  ]
+}
